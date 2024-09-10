@@ -1,0 +1,5 @@
+[23524:22076:0905/105315.637:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 128.0.6613.119 (not a warning)
+[23524:22076:0905/105315.684:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[21308:10416:0905/105328.214:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[21308:10416:0905/105328.214:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net\extras\sqlite\sqlite_persistent_store_backend_base.cc:248 to client_task_runner_.
+[23524:22076:0905/105328.242:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
